@@ -42,7 +42,7 @@ jobs:
         with:
           files: 'index.html'
           search-text: 'MAPS_API_KEY'
-          replacement-text: ${{env.MAPS_API_KEY}}
+          replacement-text: ${{ env.MAPS_API_KEY }}
           encoding: 'utf8'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
