@@ -37,7 +37,7 @@ async function initMap(locationsFromImport) {
   // Create an info window to share between markers.
   const infoWindow = new InfoWindow();
 	  
-  locations.forEach(({position, title}, i) => {
+  locations.forEach(({position, title, content, links}, i) => {
 	  
 	  const pin = new PinElement({
 		  scale: 1.5,
@@ -53,11 +53,19 @@ async function initMap(locationsFromImport) {
 	  
 	  // Add a click listener for each marker, and set up the info window.
 	  marker.addListener("click", ({ domEvent, latLng }) => {
-		 const { target } = domEvent;
+		const { target } = domEvent;
 
-		 infoWindow.close();
-		 infoWindow.setContent(marker.title);
-		 infoWindow.open(marker.map, marker);
+		let contentString = "<p><b>" + marker.title + "</b></p>" +
+			"<p>" + content + "</p>" +
+			"<p><b>Hivatkozások</b>";
+		links.forEach((link, i) => {
+			contentString += '<li><a href="' + link + '" target="_blank">' + link + '</a></li>';
+		});
+		contentString += "</p>";
+
+		infoWindow.close();
+		infoWindow.setContent(contentString);
+		infoWindow.open(marker.map, marker);
 	  });
   });
 }
