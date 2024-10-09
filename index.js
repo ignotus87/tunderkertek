@@ -37,7 +37,7 @@ async function initMap(locationsFromImport) {
   // Create an info window to share between markers.
   const infoWindow = new InfoWindow();
 	  
-  locations.forEach(({position, title, content, links}, i) => {
+  locations.forEach(({position, title, content, mapLink, links}, i) => {
 	  
 	  const pin = new PinElement({
 		  scale: 1.5,
@@ -57,7 +57,12 @@ async function initMap(locationsFromImport) {
 
 		let contentString = "<p><b>" + marker.title + "</b></p>" +
 			"<p>" + content + "</p>" +
-			"<p><b>Hivatkozások</b>";
+			'<p><b>Hivatkozások</b>';
+		if (mapLink == undefined) {
+			contentString += '<li><a href="https://www.google.com/maps/place/' + position.lat + ',' + position.lng + '" target="_blank">Nagyobb térképen</a>';
+		} else {
+			contentString += '<li><a href="' + mapLink + '" target="_blank">Nagyobb térképen</a>';
+		}
 		links.forEach((link, i) => {
 			contentString += '<li><a href="' + link + '" target="_blank">' + link + '</a></li>';
 		});
