@@ -1,13 +1,15 @@
+const locationImport = import("./locations.json", {
+    assert: { type: 'json' }
+});
+
 // Initialize and add the map
 let map;
 
-async function initMap() {
+async function initMap(locationsFromImport) {
   const centerOfTheMapBudapest = { lat: 47.4810954, lng: 18.9654951 };
 	
   // The locations
-  const locations = [
-  { position: { lat: 46.885316, lng: 16.4984948}, title: 'Szarvas József tündérkert' }
-  ];
+  const locations = locationsFromImport;
   
   // Request needed libraries.
   //@ts-ignore
@@ -60,4 +62,6 @@ async function initMap() {
   });
 }
 
-initMap();
+locationImport.then(data => {
+	initMap(data.default);
+});
