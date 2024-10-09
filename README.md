@@ -1,8 +1,8 @@
 # tunderkertek
 
-HU: A Kárpát-medencei tündérkertek térképe
+HU: A Kárpát-medencei tündérkertek térképe: https://ignotus87.github.io/tunderkertek/
 
-EN: Map of the so called "fairy gardens" of the Carpatian basin. (Gardens with fruit tree species native to this location.)
+EN: Map of the so called "fairy gardens" of the Carpatian basin (Gardens with fruit tree species native to this location): A térkép itt érhető el: https://ignotus87.github.io/tunderkertek/
 
 # target
 
