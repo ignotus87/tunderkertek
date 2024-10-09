@@ -1,4 +1,27 @@
 [
-	{ "position": { "lat": 46.885316, "lng": 16.4984948}, 	"title": "Szarvas József tündérkert" },
-	{ "position": { "lat": 48.101117, "lng": 20.687437}, 	"title": "Miskolc-Diósgyőri Petőfi Sándor Fiókkönyvtár - Petőfi körtefája" }
+  {
+    "position": {
+      "lat": 46.885316,
+      "lng": 16.4984948
+    },
+    "title": "Viszák, Szarvas József tündérkert",
+    "content": "Az egyik első tündérkert",
+    "links": [
+      "http://guide2visit.eu/vonzerok-reszletek/tunderkert",
+      "https://kulturpajta.hu/a-gyokereimet-elvagtak-ujat-kellett-keresni-szarvas-jozsef-tunderkertje/"
+    ]
+
+  },
+  {
+    "position": {
+      "lat": 48.101117,
+      "lng": 20.687437
+    },
+    "title": "Miskolc-Diósgyőri Petőfi Sándor Fiókkönyvtár - Petőfi körtefája",
+    "content": "Diósgyőrben a Petőfi Sándor Könyvtár udvarán is elültették Petőfi körtefáját.",
+    "links": [
+      "https://nepi.kultura.hu/helyszin/miskolc-diosgyori-petofi-sandor-fiokkonyvtar",
+      "https://nepi.kultura.hu/cikk/petofi-kortefaja-miskolcon"
+    ]
+  }
 ]
