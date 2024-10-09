@@ -1,5 +1,5 @@
 const locationImport = import("./locations.json", {
-    assert: { type: 'json' }
+    with: { type: 'json' }
 });
 
 // Initialize and add the map
