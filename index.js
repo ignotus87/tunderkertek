@@ -1,4 +1,6 @@
-locationImport = import("./locations.json", {
+"use strict";
+
+const locationImport = import("./locations.json", {
     with: { type: 'json' },
     assert: { type: 'json' }
 });
