@@ -34,13 +34,27 @@
       "lng": 20.992882
     },
     "title": "Tiszacsege Tündérkert",
-    "content": "Diósgyőrben a Petőfi Sándor Könyvtár udvarán is elültették Petőfi körtefáját.",
+    "content": "Kultúrpajta, tündérkert, Petőfi körtefája",
     "mapLink": "https://www.google.com/maps/place/47%C2%B041'47.5%22N+20%C2%B059'34.4%22E/@47.6966875,20.9927319,415m/data=!3m1!1e3!4m4!3m3!8m2!3d47.6965145!4d20.9928817?hl=hu-HU&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
     "links": [
       "https://nepi.kultura.hu/cikk/beszeljenek-a-kepek-tiszacsege",
       "https://www.google.com/maps/place/Tiszacsege,+R%C3%A1k%C3%B3czi+u.+28,+4066+Magyarorsz%C3%A1g/@47.696539,20.9964661,415m/data=!3m1!1e3!4m6!3m5!1s0x474734d83a1c0efb:0x40bbf8ec3289cd22!8m2!3d47.6965146!4d20.9977526!16s%2Fg%2F11pzt58sxg?hl=hu-HU&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
       "https://nepi.kultura.hu/helyszin/tiszacsege",
       "https://www.facebook.com/pajta.csege"
+    ]
+  },
+  {
+    "position": {
+      "lat": 47.2438161,
+      "lng": 16.6087744
+    },
+    "title": "Szombathely, Petőfi körtefája",
+    "content": "Petőfi körtefája és Benedek Elek kékalmafája már termőre fordult itt.",
+    "contact": "Százszorszép Bölcsőde, Telefon: +36-94/501227, Bölcsődevezető: Novákné Krizsán Hajnalka, krizsan.hajnalka@ebi.szombathely.hu",
+    "mapLink": "https://www.google.com/maps/place/Szombathely,+V%C3%A1ci+Mih%C3%A1ly+u.+5,+9700+Magyarorsz%C3%A1g/@47.2438161,16.6087744,810m/data=!3m2!1e3!4b1!4m6!3m5!1s0x476eb998a1500311:0xa3ce9a6c72bd0ff!8m2!3d47.2438161!4d16.6113493!16s%2Fg%2F11c5dvxk3r?hl=hu-HU&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+    "links": [
+      "https://nepi.kultura.hu/helyszin/petofi-kortefaja-es-benedek-elek-kekalmafaja-evtizede-szombathelyen",
+      "https://bolcsodeszombathely.hu/hu/bolcsodek/szazszorszep-bolcsode/"
     ]
   }
 ]
