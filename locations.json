@@ -6,12 +6,12 @@
     },
     "title": "Viszák, Szarvas József tündérkert",
     "content": "Az egyik első tündérkert",
-	"mapLink": "https://www.google.com/maps/place/T%C3%BCnd%C3%A9rkert/@46.8852736,16.4982468,222m/data=!3m1!1e3!4m12!1m5!3m4!2zNDbCsDUzJzA3LjEiTiAxNsKwMjknNTQuNiJF!8m2!3d46.885316!4d16.4984948!3m5!1s0x476ed7006db7a53b:0x471d8be31148eae7!8m2!3d46.8854028!4d16.4980791!16s%2Fg%2F11vr29n1f3?entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D",
+    "mapLink": "https://www.google.com/maps/place/T%C3%BCnd%C3%A9rkert/@46.8852736,16.4982468,222m/data=!3m1!1e3!4m12!1m5!3m4!2zNDbCsDUzJzA3LjEiTiAxNsKwMjknNTQuNiJF!8m2!3d46.885316!4d16.4984948!3m5!1s0x476ed7006db7a53b:0x471d8be31148eae7!8m2!3d46.8854028!4d16.4980791!16s%2Fg%2F11vr29n1f3?entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D",
     "links": [
       "http://guide2visit.eu/vonzerok-reszletek/tunderkert",
       "https://kulturpajta.hu/a-gyokereimet-elvagtak-ujat-kellett-keresni-szarvas-jozsef-tunderkertje/",
-	  "https://www.sokszinuvidek.hu/mozaik/az-oshonos-gyuemoelcsfajtakat-orzi-a-tuenderkert-mozgalom",
-	  "https://www.viszak.hu/latnivalok/"
+      "https://www.sokszinuvidek.hu/mozaik/az-oshonos-gyuemoelcsfajtakat-orzi-a-tuenderkert-mozgalom",
+      "https://www.viszak.hu/latnivalok/"
     ]
 
   },
@@ -22,10 +22,25 @@
     },
     "title": "Miskolc-Diósgyőri Petőfi Sándor Fiókkönyvtár - Petőfi körtefája",
     "content": "Diósgyőrben a Petőfi Sándor Könyvtár udvarán is elültették Petőfi körtefáját.",
-	"mapLink": "https://www.google.com/maps/place/Miskolc-Di%C3%B3sgy%C5%91ri+Pet%C5%91fi+S%C3%A1ndor+Fi%C3%B3kk%C3%B6nyvt%C3%A1r/@48.101117,20.687437,842m/data=!3m1!1e3!4m12!1m5!3m4!2zNDjCsDA2JzA0LjAiTiAyMMKwNDEnMTQuOCJF!8m2!3d48.101117!4d20.687437!3m5!1s0x47409e6e4def1107:0x1510e4e339db6379!8m2!3d48.100563!4d20.689135!16s%2Fg%2F1vj5y_31?entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D",
+    "mapLink": "https://www.google.com/maps/place/Miskolc-Di%C3%B3sgy%C5%91ri+Pet%C5%91fi+S%C3%A1ndor+Fi%C3%B3kk%C3%B6nyvt%C3%A1r/@48.101117,20.687437,842m/data=!3m1!1e3!4m12!1m5!3m4!2zNDjCsDA2JzA0LjAiTiAyMMKwNDEnMTQuOCJF!8m2!3d48.101117!4d20.687437!3m5!1s0x47409e6e4def1107:0x1510e4e339db6379!8m2!3d48.100563!4d20.689135!16s%2Fg%2F1vj5y_31?entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D",
     "links": [
       "https://nepi.kultura.hu/helyszin/miskolc-diosgyori-petofi-sandor-fiokkonyvtar",
       "https://nepi.kultura.hu/cikk/petofi-kortefaja-miskolcon"
+    ]
+  },
+  {
+    "position": {
+      "lat": 47.696515,
+      "lng": 20.992882
+    },
+    "title": "Tiszacsege Tündérkert",
+    "content": "Diósgyőrben a Petőfi Sándor Könyvtár udvarán is elültették Petőfi körtefáját.",
+    "mapLink": "https://www.google.com/maps/place/47%C2%B041'47.5%22N+20%C2%B059'34.4%22E/@47.6966875,20.9927319,415m/data=!3m1!1e3!4m4!3m3!8m2!3d47.6965145!4d20.9928817?hl=hu-HU&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+    "links": [
+      "https://nepi.kultura.hu/cikk/beszeljenek-a-kepek-tiszacsege",
+      "https://www.google.com/maps/place/Tiszacsege,+R%C3%A1k%C3%B3czi+u.+28,+4066+Magyarorsz%C3%A1g/@47.696539,20.9964661,415m/data=!3m1!1e3!4m6!3m5!1s0x474734d83a1c0efb:0x40bbf8ec3289cd22!8m2!3d47.6965146!4d20.9977526!16s%2Fg%2F11pzt58sxg?hl=hu-HU&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "https://nepi.kultura.hu/helyszin/tiszacsege",
+      "https://www.facebook.com/pajta.csege"
     ]
   }
 ]
