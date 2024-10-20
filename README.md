@@ -21,7 +21,11 @@ Start a local node server: `http-server -p 8080`
 # resources
 
 Created based on the documentation: https://developers.google.com/maps/documentation/javascript/adding-a-google-map
+
 Marker setup: https://developers.google.com/maps/documentation/javascript/examples/advanced-markers-accessibility
+
 Info window: https://developers.google.com/maps/documentation/javascript/infowindows
+
 List of locations to show on map: https://nepi.kultura.hu/helyszinek/tunderkert&petofi-kortefaja?page=1
+
 Maps console: https://console.cloud.google.com/google/maps-apis/credentials?project=tunderkertek
