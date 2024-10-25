@@ -70,5 +70,19 @@
       "https://nepi.kultura.hu/helyszin/asotthalom",
       "https://www.facebook.com/profile.php?id=100081759434864"
     ]
+  },
+  {
+    "position": {
+      "lat": 47.2364318,
+      "lng": 16.5932082
+    },
+    "title": "Szombathely, Beythe-kertnek",
+    "content": "A Vasi Skanzen Tündérkertje",
+    "contact": "Vasi skanzen, Telefon: +36 94 311 004",
+    "mapLink": "https://www.google.com/maps/place/Vasi+Skanzen/@47.2364318,16.5932082,303m/data=!3m1!1e3!4m6!3m5!1s0x476eb9ca92ebe54b:0xe058584f42fba224!8m2!3d47.2365402!4d16.5949098!16s%2Fg%2F1v7px8l9?entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+    "links": [
+      "https://nepi.kultura.hu/helyszin/beythe-kert",
+      "http://skanzen.savariamuseum.hu/"
+    ]
   }
 ]
