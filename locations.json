@@ -56,5 +56,19 @@
       "https://nepi.kultura.hu/helyszin/petofi-kortefaja-es-benedek-elek-kekalmafaja-evtizede-szombathelyen",
       "https://bolcsodeszombathely.hu/hu/bolcsodek/szazszorszep-bolcsode/"
     ]
+  },
+  {
+    "position": {
+      "lat": 46.2008261,
+      "lng": 19.7798197
+    },
+    "title": "Ásotthalom: tündérkert, Petőfi körtefája",
+    "content": "Petőfi körtefája és Benedek Elek kékalmafája már termőre fordult itt.",
+    "contact": "Bűbáj élménybirtok, +36 20 495 5961, turizmus@asotthalom.hu",
+    "mapLink": "https://www.google.com/maps/place/B%C5%B1b%C3%A1j+%C3%89lm%C3%A9nybirtok/@46.2008261,19.7798197,260m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47437d7eb7c4a4b5:0x8e3d67086ab88d8c!8m2!3d46.200825!4d19.7805864!16s%2Fg%2F11s2hxf3bg?hl=hu-HU&entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+    "links": [
+      "https://nepi.kultura.hu/helyszin/asotthalom",
+      "https://www.facebook.com/profile.php?id=100081759434864"
+    ]
   }
 ]
