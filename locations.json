@@ -84,5 +84,19 @@
       "https://nepi.kultura.hu/helyszin/beythe-kert",
       "http://skanzen.savariamuseum.hu/"
     ]
+  },
+  {
+    "position": {
+      "lat": 47.2364318,
+      "lng": 16.5932082
+    },
+    "title": "Olaszfalu, Villax Ferdinánd Iskola",
+    "content": "A Villax Ferdinánd Iskola Tündérkertje",
+    "contact": "Telefonszám: 06 88/777-925, e-mail cím: villaxferdinand@gmail.com",
+    "mapLink": "https://www.google.com/maps/place/Villax+Ferdin%C3%A1nd+N%C3%A9met+Nemzetis%C3%A9gi+Nyelvoktat%C3%B3+%C3%81ltal%C3%A1nos+Iskola/@47.2409451,17.9131857,288m/data=!3m1!1e3!4m6!3m5!1s0x476987e1d5da383b:0xaea91aafa58030c4!8m2!3d47.2406885!4d17.9137163!16s%2Fg%2F11vdmwq8rm?hl=hu-HU&entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D",
+    "links": [
+      "https://nepi.kultura.hu/helyszin/olaszfalu-villax-ferdinand-altalanos-iskola",
+      "https://www.villax.hu/belepes2.html"
+    ]
   }
 ]
